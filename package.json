@@ -2,7 +2,7 @@
   "name": "basic-text-map-processor",
   "version": "1.0.0",
   "description": "Library for processing game maps of a specific format in a .txt file format",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
