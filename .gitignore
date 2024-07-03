@@ -1,0 +1,2 @@
+# Ignore modules installed by node
+/node_modules
