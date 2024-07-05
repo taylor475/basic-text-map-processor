@@ -1,0 +1,5 @@
+# Ignore modules installed by node
+/node_modules
+
+# Ignore maps created by the program
+*.txt
